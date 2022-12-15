@@ -1,9 +1,5 @@
 ---
 test1:
   a: aaaaaaaaaa
-<<<<<<< HEAD
 test4:
-=======
-test34:
->>>>>>> ce98292 (ghfd)
   b: fds
